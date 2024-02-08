@@ -24,11 +24,11 @@ Follow these steps to set up and run the C2 server on your local machine:
 Here are some screenshots showcasing the C2 server:
 
 - **DASHBOARD:**
-  ![DASHBOARD(static/images/Dashboard.jpg)
+  ![IP BLACKLIST](static/images/Dashboard.jpg)
   *Screenshot of the Dashboard interface.*
 
 - **IP BLACK LIST:**
-  ![IP BLACKLIST](static/images/BLACKILIST.jpg)
+  ![IP BLACKLIST](static/images/Blacklist.jpg)
   *Screenshot of the IP BlackList Interface.*
 
  - **LOG ANALYSIS REPORT:**
