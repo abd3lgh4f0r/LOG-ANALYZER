@@ -1,12 +1,9 @@
 # LOG-ANALYZER
-This project is a a system
+
+This project automates web server log analysis, focusing on Apache server logs, and detects web attacks. Additionally, it features a user-friendly dashboard for enhanced monitoring and visualization.
 
 # Key Features
-- **Web Interface**: User-friendly Flask-based interface for seamless monitoring and interaction with the C2 server.
 
-- **Multithreading**: Ensures optimal performance by adeptly handling multiple agents concurrently.
-
-- **Command Execution**: Facilitates secure and controlled execution of commands on connected agents.
 
 
 ## How to Run
