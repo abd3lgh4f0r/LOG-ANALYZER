@@ -23,9 +23,9 @@ Follow these steps to set up and run the C2 server on your local machine:
 
 Here are some screenshots showcasing the C2 server:
 
-- **Web Interface:**
-  ![Web Interface](static/images/image1.png)
-  *Screenshot of the C2 server's web interface.*
+- **DASHBOARD:**
+  ![Web Interface](static/images/Dashboard.jpg)
+  *Screenshot of the Dashboard interface.*
 
 - **Command Line Interface:**
   ![Command Line Interface](static/images/image2.png)
