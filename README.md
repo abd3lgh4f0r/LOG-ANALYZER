@@ -24,9 +24,16 @@ Follow these steps to set up and run the C2 server on your local machine:
 Here are some screenshots showcasing the C2 server:
 
 - **DASHBOARD:**
-  ![Web Interface](static/images/Dashboard.jpg)
+  ![DASHBOARD(static/images/Dashboard.jpg)
   *Screenshot of the Dashboard interface.*
 
-- **Command Line Interface:**
-  ![Command Line Interface](static/images/image2.png)
-  *Screenshot of the command line interface in the C2 server.*
+- **IP BLACK LIST:**
+  ![IP BLACKLIST](static/images/BLACKILIST.jpg)
+  *Screenshot of the IP BlackList Interface.*
+
+ - **LOG ANALYSIS REPORT:**
+ ![LOG ANALYSIS REPORT](static/images/report.jpg)
+  *Screenshot of the ANALYSIS REPORT.*
+
+
+  
