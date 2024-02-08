@@ -12,7 +12,7 @@ Follow these steps to set up and run the LOG-ANALYZER  on your local machine:
 
 1. **Clone the Repository:** : git clone https://github.com/abd3lgh4f0r/LOG-ANALYZER.git
 2. **Install Dependencies:** :  pip install -r requirements.txt
-3. **Run the Server Script:**: python log-analyzer.py
+3. **Run this Script:**: python log-analyzer.py
 4. **Access the Web Interface** : Open your web browser and navigate to http://localhost:5000 (or the specified port in your configuration)
 
 
