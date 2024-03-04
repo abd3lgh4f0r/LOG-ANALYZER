@@ -1,7 +1,8 @@
 # LOG-ANALYZER
 
 This project automates web server log analysis, focusing on Apache server logs, and detects web attacks. Additionally, it features a user-friendly dashboard for enhanced monitoring and visualization.
-
+![IP BLACKLIST](static/images/LOG-ANALYZER.png)
+  *System Architecture*
 # Key Features
 1. **Comprehensive Dashboard:**  Ensure all web server logs are visually presented effectively for optimal understanding.
 2. **Web Attack Detection:**   Automatically identify and report web attack.
