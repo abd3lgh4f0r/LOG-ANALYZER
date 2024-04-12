@@ -37,5 +37,5 @@ Here are some screenshots showcasing the LOG-ANALYZER:
  ![LOG ANALYSIS REPORT](static/images/report.jpg)
   *Screenshot of the ANALYSIS REPORT.*
 
-
+**DASHBOARD CREDIT**  : I've developed the dashboard  based on  codzsword Dashboard project. [github_profile](https://github.com/codzsword).
   
